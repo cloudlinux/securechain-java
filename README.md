@@ -15,8 +15,9 @@ Learn more about our product in our [press release](https://tuxcare.com/blog/tux
 
 -   **Security Verification**: Vendor-independent verification of Java libraries and dependencies.
 -   **Vulnerability Remediation**: Libraries with removed vulnerabilities and tested thereafter.
+-   **Precise Patching**: We only modify code precisely where needed to fix vulnerabilities, ensuring minimal impact on your application.
+-   **Compatibility Validation**: Post-patching, we test all application methods to ensure full compatibility and functionality.
 -   **Extended Support**: 3 years of support with options for flexibility and extension.
--   **Automated Checks**: "Precise patching" and validation for invulnerable components.
 -   **Secure Packaging**: JAR Files Authenticated with Digital Signatures.
 -   **Complete Transparency**: Detailed Software Bill of Materials (SBOM) for Each Library.
 -   **Enterprise Focus**: Tailored for large enterprise companies in various sectors.
