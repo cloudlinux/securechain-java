@@ -31,7 +31,7 @@ Learn more about our product in our [press release](https://tuxcare.com/blog/tux
 
 Depending on your needs, we offer:
 
--   Access to the trusted OSS library for your Java application (Free tier - see the following Getting Started section).
+-   Access to the trusted OSS library for your Java application (Free tier [Go to Getting Started section](#getting-started)).
 -   Libraries with removed vulnerabilities, tested and fixed by us. (**Request-Based Access**).
 -   Extended Lifecycle Support (ELS) versions that span up to 3 years (**Request-Based Access**).
 
@@ -55,7 +55,7 @@ That's it! With just a quick edit to your `settings.xml`, you're all set to use 
 
 ## SBOM Overview
 
-Our Software Bill of Materials (SBOM) provides complete transparency and visibility into the components of each library. With SBOM, you have detailed information about all dependencies, ensuring a secure and compliant use of open-source software. [Learn more about SBOM](link-to-SBOM-guide).
+Our Software Bill of Materials (SBOM) provides complete transparency and visibility into the components of each library. With SBOM, you have detailed information about all dependencies, ensuring a secure and compliant use of open-source software. [Learn more about SBOM](https://www.cisa.gov/sbom).
 
 ## Support
 
