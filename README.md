@@ -17,8 +17,8 @@ Learn more about our product in our [press release](https://tuxcare.com/blog/tux
 -   **Vulnerability Remediation**: Libraries with removed vulnerabilities and tested thereafter.
 -   **Extended Support**: 3 years of support with options for flexibility and extension.
 -   **Automated Checks**: "Precise patching" and validation for invulnerable components.
--   **Secure Packaging: **JAR Files Authenticated with Digital Signatures.
--   **Complete Transparency: **Detailed Software Bill of Materials (SBOM) for Each Library.
+-   **Secure Packaging**: JAR Files Authenticated with Digital Signatures.
+-   **Complete Transparency**: Detailed Software Bill of Materials (SBOM) for Each Library.
 -   **Enterprise Focus**: Tailored for large enterprise companies in various sectors.
 
 **Learn more about our processes:**
