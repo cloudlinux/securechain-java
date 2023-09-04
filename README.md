@@ -1,11 +1,3 @@
-
-title: Readme.md
-created at: Mon Aug 14 2023 14:31:19 GMT+0000 (Coordinated Universal Time)
-updated at: Mon Sep 04 2023 19:10:39 GMT+0000 (Coordinated Universal Time)
----
-
-# Readme.md
-
 # TuxCare SecureChain for Java
 
 ## Introduction
