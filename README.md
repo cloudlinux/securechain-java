@@ -43,7 +43,7 @@ To start using TuxCare SecureChain for Java, follow these steps:
 
 1.  Access our [repository of verified libraries](http://nexus-repo.corp.cloudlinux.com/#browse/browse:tuxcare_vetted) or [request access](https://tuxcare.com/securechain-for-java/) to the next levels of defense.
 
-2.  Configure your system by the following Quick Start Guide.
+2.  Configure your system by the following [Quick Start Guide](#quick-start-guide).
 
 3.  Start building secure Java applications!
 
