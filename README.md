@@ -31,7 +31,7 @@ Learn more about our product in our [press release](https://tuxcare.com/blog/tux
 
 Depending on your needs, we offer:
 
--   Access to the trusted OSS library for your Java application (Free tier, Go to [Getting Started](#getting-started) section).
+-   Access to the trusted OSS library for your Java application (Free tier, go to [Getting Started](#getting-started) section).
 -   Libraries with removed vulnerabilities, tested and fixed by us. (**Request-Based Access**).
 -   Extended Lifecycle Support (ELS) versions that span up to 3 years (**Request-Based Access**).
 
@@ -49,7 +49,7 @@ To start using TuxCare SecureChain for Java, follow these steps:
 
 ## Quick Start Guide
 
-Easily set up mirroring for trusted Java libraries by updating your `~/.m2/settings.xml` file. For a comprehensive guide, including steps on Nexus Integration, refer to our [Integration Guide](https://slite.com/api/public/notes/6ti2GPeZp3FxfX/redirect) .
+Easily set up mirroring for trusted Java libraries by updating your `~/.m2/settings.xml` file. For a comprehensive guide, including steps on Nexus Integration, refer to our [Integration Guide](https://slite.com/api/public/notes/6ti2GPeZp3FxfX/redirect).
 
 That's it! With just a quick edit to your `settings.xml`, you're all set to use the TuxCare Vetted Repository.
 
