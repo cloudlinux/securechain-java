@@ -27,15 +27,15 @@ Learn more about our product in our [press release](https://tuxcare.com/blog/tux
 
 [SecureChain Java Library Vulnerability Remediation Workflow](https://slite.com/api/public/notes/Aq85qQsrZBlqC6/redirect)
 
-## **Defense Levels and **Access Plans
+## **Defense Levels and Access Plans**
 
 Depending on your needs, we offer:
 
-    - Access to the trusted OSS library for your Java application (Free tier - see the following Getting started section)
-    - Libraries with removed vulnerabilities, tested and fixed by us. (**Request-Based Access**)
-    - Extended Lifecycle Support (ELS) versions that span up to 3 years (**Request-Based Access).**
+-   Access to the trusted OSS library for your Java application (Free tier - see the following Getting Started section).
+-   Libraries with removed vulnerabilities, tested and fixed by us. (**Request-Based Access**).
+-   Extended Lifecycle Support (ELS) versions that span up to 3 years (**Request-Based Access**).
 
-[Request access](https://slite.com/api/public/notes/27oToW1XCosB-9/redirect)
+[Request access](https://tuxcare.com/securechain-for-java/)
 
 ## Getting Started
 
