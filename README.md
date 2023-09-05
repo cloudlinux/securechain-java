@@ -51,7 +51,7 @@ To start using TuxCare SecureChain for Java, follow these steps:
 ## Quick Start Guide
 
 Easily set up mirroring for trusted Java libraries by updating your `~/.m2/settings.xml` file. That's it! With just a quick edit to your `settings.xml`, you're all set to use the TuxCare Vetted Repository.
-For a comprehensive guide, including steps on Nexus Integration, refer to our [Integration Guide](https://slite.com/api/public/notes/6ti2GPeZp3FxfX/redirect).
+For a comprehensive guide, including steps on Nexus Integration, refer to our [Integration Guide](details/integration_guide.md).
 
 
 ## SBOM Overview
