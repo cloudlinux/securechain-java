@@ -18,7 +18,7 @@ To create a secure and trusted source of Java libraries for your application, we
 
 The accompanying graph outlines the steps involved in our vetting process, providing a visual guide to how we ensure the safety and reliability of each library in our Trusted Artifactory.
 
-![image.png](images/vetted_flow.png)
+![image.png](/images/vetting_flow.png)
 
 ### How is the Service Delivered?
 
