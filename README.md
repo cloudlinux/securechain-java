@@ -32,7 +32,7 @@ Learn more about our product in our [press release](https://tuxcare.com/blog/tux
 
 [SecureChain Java Library Verification Workflow](https://slite.com/api/public/notes/rdidx5Tg7W4XJb/redirect)
 
-[SecureChain Java Library Vulnerability Remediation Workflow](https://slite.com/api/public/notes/Aq85qQsrZBlqC6/redirect)
+[SecureChain Java Library Vulnerability Remediation Workflow](details/vulnerability_remediation_workflow.md)
 
 ## **Defense Levels and Access Plans**
 
