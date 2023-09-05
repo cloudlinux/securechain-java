@@ -30,7 +30,7 @@ Learn more about our product in our [press release](https://tuxcare.com/blog/tux
 
 **Learn more about our processes:**
 
-[SecureChain Java Library Verification Workflow](https://slite.com/api/public/notes/rdidx5Tg7W4XJb/redirect)
+[SecureChain Java Library Verification Workflow](details/verification_workflow.md)
 
 [SecureChain Java Library Vulnerability Remediation Workflow](details/vulnerability_remediation_workflow.md)
 
