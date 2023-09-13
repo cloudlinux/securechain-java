@@ -47,13 +47,9 @@ repositories {
 }
 ```
 
-### Step 3: Save and Close
-
-After adding the repository settings to your `settings.xml`, save the file and close your text editor.
-
 ## Verification
 
-To verify that the repository has been successfully setup, add any library contained in the repository and then execute a build. Your build tool should be able to resolve dependencies from the TuxCare Vetted repository.
+To confirm that the repository has been correctly established, include any library from the repository into your project and then run a build. The build tool you're using should be able to identify and resolve dependencies from the TuxCare Vetted repository.
 
 ## Conclusion
 
