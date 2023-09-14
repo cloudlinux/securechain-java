@@ -10,7 +10,7 @@
 
 TuxCare SecureChain for Java focuses on Open Source Supply Chain Security. Our mission is to mitigate the risks from known exploits and supply chain attacks targeting OSS components. By offering a trusted repository of vetted and continuously patched open-source Java libraries and packages we provide a solution for effective defense against these pervasive threats.
 
-Learn more about our product in our [press release](https://tuxcare.com/blog/tuxcare-launches-securechain-for-java-to-bolster-software-supply-chain-security-via-continuously-secured-and-free-repository-service/).
+You can also check our press release [here](https://tuxcare.com/blog/tuxcare-launches-securechain-for-java-to-bolster-software-supply-chain-security-via-continuously-secured-and-free-repository-service/).
 
 ## Our Objectives
 
@@ -50,7 +50,7 @@ To start using TuxCare SecureChain for Java, follow these steps:
 
 1.  Access our [repository of verified libraries](http://nexus-repo.corp.cloudlinux.com/#browse/browse:tuxcare_vetted) or [request access](https://tuxcare.com/securechain-for-java/) to the next levels of defense.
 
-2.  Easily set up your building tool to use our secure repo (follow [Integration Guide](details/integration_guide.md))
+2.  Easily set up your building tool to use our secure repo (follow [Integration Guide](details/integration_guide/))
 
 3.  Start building secure Java applications!
 
