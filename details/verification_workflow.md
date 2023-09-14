@@ -14,7 +14,7 @@ In the evolving landscape of application development, reliance on third-party an
 
 To create a secure and trusted source of Java libraries for your application, we have instituted a rigorous vetting process. This multi-tiered approach combines static code analyzers with human and AI-based code reviews. Upon successful security validation, libraries are incorporated into our secure repository. Each library is then packaged with a Software Bill of Materials (SBOM) and signed JAR files for additional assurance.
 
-**Note**: We don't modify the original code during the library verification process. Any found vulnerabilities are remediated during the following [Library Vulnerability Remediation Workflow](details/vulnerability_remediation_workflow.md)
+**Note**: We don't modify the original code during the library verification process. Any found vulnerabilities are remediated during the following [Library Vulnerability Remediation Workflow](/details/vulnerability_remediation_workflow.md)
 
 
 The accompanying graph outlines the steps involved in our vetting process, providing a visual guide to how we ensure the safety and reliability of each library in our Trusted Artifactory.
