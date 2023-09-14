@@ -50,14 +50,11 @@ To start using TuxCare SecureChain for Java, follow these steps:
 
 1.  Access our [repository of verified libraries](http://nexus-repo.corp.cloudlinux.com/#browse/browse:tuxcare_vetted) or [request access](https://tuxcare.com/securechain-for-java/) to the next levels of defense.
 
-2.  Easily set up mirroring by updating your `~/.m2/settings.xml` file.
+2.  Easily set up your building tool to use our secure repo (follow [Integration Guide](details/integration_guide.md))
 
 3.  Start building secure Java applications!
 
-That's it! With just a quick edit to your `settings.xml`, you're all set to use the TuxCare Vetted Repository.
-
-For a comprehensive guide, including steps on Build Tools Integration, refer to our [Integration Guide](details/integration_guide.md).
-
+That's it! With just a quick set up of your building tool, you're all set to use the TuxCare Vetted Repository.
 
 ## SBOM Overview
 
