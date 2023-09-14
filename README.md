@@ -39,10 +39,8 @@ You may also check our press release [here](https://tuxcare.com/blog/tuxcare-lau
 Depending on your needs, we offer:
 
 -   Access to the trusted OSS library for your Java application (Free tier, go to [Getting Started](#getting-started) section).
--   Libraries with removed vulnerabilities, tested and fixed by us (**Request-Based Access**).
--   Extended Lifecycle Support (ELS) versions that span up to 3 years (**Request-Based Access**).
-
-[Request access](https://tuxcare.com/securechain-for-java/)
+-   Libraries with removed vulnerabilities, tested and fixed by us ([Request access](https://tuxcare.com/securechain-for-java/)).
+-   Extended Lifecycle Support (ELS) versions that span up to 3 years ([Request access](https://tuxcare.com/securechain-for-java/)).
 
 ## Getting Started
 
