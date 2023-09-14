@@ -39,14 +39,14 @@ You may also check our press release [here](https://tuxcare.com/blog/tuxcare-lau
 Depending on your needs, we offer:
 
 -   Access to the trusted OSS library for your Java application (Free tier, go to [Getting Started](#getting-started) section).
--   Libraries with removed vulnerabilities, tested and fixed by us ([Request access](https://tuxcare.com/securechain-for-java/)).
--   Extended Lifecycle Support (ELS) versions that span up to 3 years ([Request access](https://tuxcare.com/securechain-for-java/)).
+-   Libraries with removed vulnerabilities, tested and fixed by us ([Request access](https://tuxcare.com/lp/securechain-for-java-form/?utm_source=github&utm_medium=link&utm_term=invuln)).
+-   Extended Lifecycle Support (ELS) versions that span up to 3 years ([Request access](https://tuxcare.com/lp/securechain-for-java-form/?utm_source=github&utm_medium=link&utm_term=els)).
 
 ## Getting Started
 
 To start using TuxCare SecureChain for Java, follow these steps:
 
-1.  Access our [repository of verified libraries](http://nexus-repo.corp.cloudlinux.com/#browse/browse:tuxcare_vetted) or [request access](https://tuxcare.com/securechain-for-java/) to the next levels of defense.
+1.  Access our [repository of verified libraries](http://nexus-repo.corp.cloudlinux.com/#browse/browse:tuxcare_vetted) or [request access](https://tuxcare.com/lp/securechain-for-java-form/?utm_source=github&utm_medium=link&utm_term=common) to the next levels of defense.
 
 2.  Easily set up your building tool to use our secure repo (follow [Integration Guide](details/integration_guide.md)).
 
