@@ -10,7 +10,7 @@
 
 TuxCare SecureChain for Java focuses on Open Source Supply Chain Security. Our mission is to mitigate the risks from known exploits and supply chain attacks targeting OSS components. By offering a trusted repository of vetted and continuously patched open-source Java libraries and packages we provide a solution for effective defense against these pervasive threats.
 
-You may also check our press release [here](https://tuxcare.com/blog/tuxcare-launches-securechain-for-java-to-bolster-software-supply-chain-security-via-continuously-secured-and-free-repository-service/).
+You may also check our press release [here](https://tuxcare.com/blog/tuxcare-launches-securechain-for-java-to-bolster-software-supply-chain-security-via-continuously-secured-and-free-repository-service/?utm_source=github&utm_medium=link&utm_term=pr).
 
 ## Our Objectives
 
