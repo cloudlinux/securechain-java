@@ -11,7 +11,7 @@ You need username and password in order to use TuxCare ELS Spring repository. An
 
 ### Step 2: Locate the Repository
 
-You can find the Trusted repository using the following link: [TuxCare ELS Spring](https://nexus-repo.corp.cloudlinux.com/#browse/browse:els_spring).
+You can find the Trusted repository using the following link: [TuxCare ELS Spring repository](https://nexus-repo.corp.cloudlinux.com/#browse/browse:els_spring).
 
 ### Step 3: Create or Modify Your Build Tool Settings
 
@@ -61,7 +61,7 @@ In this configuration ```your-username``` and ```your-password``` are your crede
 
 ## Verification
 
-To confirm that the repository has been correctly established, include any library from the repository into your project and then run a build. The build tool you're using should be able to identify and resolve dependencies from the TuxCare Vetted repository.
+To confirm that the repository has been correctly established, include any library from the repository into your project and then run a build. The build tool you're using should be able to identify and resolve dependencies from the TuxCare ELS Spring repository.
 
 ## Conclusion
 
