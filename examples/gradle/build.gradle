@@ -10,8 +10,8 @@ repositories {
     maven {
         url = uri("https://nexus-repo.corp.cloudlinux.com/repository/els_spring")
         credentials {
-            username = "els_user"
-            password = "qwerty"
+            username = "your-username"
+            password = "your-password"
         }
     }
 }
