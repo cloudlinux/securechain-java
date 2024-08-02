@@ -41,7 +41,8 @@ In this configuration ```your-username``` and ```your-password``` are your crede
     </repository>
 </repositories>
 ```
-[Maven Example](../examples/maven)
+An example of maven project your can find 
+[here](../examples/maven). Do not forget to replace credentials in ```.mvn/settings.xml``` file.
 #### Gradle
 
 If you are using Gradle as your build automation tool, make sure to include the following configuration in your project setup:
@@ -58,6 +59,9 @@ repositories {
 }
 ```
 In this configuration ```your-username``` and ```your-password``` are your credentials mentioed in the Step 1.
+
+An example of gradle project your can find 
+[here](../examples/gradle). Do not forget to replace credentials in ```build.gradle``` file.
 
 ## Verification
 
