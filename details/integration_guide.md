@@ -41,7 +41,7 @@ In this configuration ```your-username``` and ```your-password``` are your crede
     </repository>
 </repositories>
 ```
-
+[Maven Example](../examples/maven)
 #### Gradle
 
 If you are using Gradle as your build automation tool, make sure to include the following configuration in your project setup:
