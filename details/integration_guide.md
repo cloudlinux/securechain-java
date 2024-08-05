@@ -25,14 +25,20 @@ If you are using Maven as your build automation tool, you will need to make chan
     <servers>
         <server>
      	    <id>repository-id</id>
-     	    <username>your-username</username>
-     	    <password>your-password</password>
+     	    <username>${env.USERNAME}</username>
+     	    <password>${env.PASSWORD}</password>
    	</server>
     </servers>
 </settings>
 ```
+Set your credentials via the following enviromnent variables:
+```bash
+export USERNAME=your-username
+export PASSWORD=your-password
+```
+Here ```your-username``` and ```your-password``` are your credentials mentioned in the Step 1.
 
-In this configuration ```your-username``` and ```your-password``` are your credentials mentioed in the Step 1. You may choose an arbitrary allowed value instead of ```repository-id``` and use the same value in the following snippet from your `pom.xml` file:
+You may choose an arbitrary allowed value instead of ```repository-id``` and use the same value in the following snippet from your `pom.xml` file:
 ```xml
 <repositories>
     <repository>
@@ -42,7 +48,7 @@ In this configuration ```your-username``` and ```your-password``` are your crede
 </repositories>
 ```
 An example of maven project your can find 
-[here](../examples/maven). Do not forget to replace credentials in ```.mvn/settings.xml``` file.
+[here](../examples/maven). Do not forget to set the enviromnet variables.
 #### Gradle
 
 If you are using Gradle as your build automation tool, make sure to include the following configuration in your project setup:
@@ -52,16 +58,21 @@ repositories {
   maven {
     url = uri("https://nexus-repo.corp.cloudlinux.com/repository/els_spring")
     credentials {
-            username = "your-username"
-            password = "your-password"
+            username = findProperty('USERNAME')
+            password = findProperty('PASSWORD')
     }
   }
 }
 ```
-In this configuration ```your-username``` and ```your-password``` are your credentials mentioed in the Step 1.
+Set your credentials via the following enviromnent variables:
+```bash
+export ORG_GRADLE_PROJECT_USERNAME=your-username
+export ORG_GRADLE_PROJECT_PASSWORD=your-password
+```
+Here ```your-username``` and ```your-password``` are your credentials mentioned in the Step 1.
 
 An example of gradle project your can find 
-[here](../examples/gradle). Do not forget to replace credentials in ```build.gradle``` file.
+[here](../examples/gradle). Do not forget to set the enviromnet variables.
 
 ## Verification
 

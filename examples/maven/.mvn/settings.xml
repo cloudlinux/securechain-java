@@ -133,8 +133,8 @@ under the License.
     -->
     <server>
       <id>repository-id</id>
-      <username>your_username</username>
-      <password>your_password</password>
+      <username>${env.USERNAME}</username>
+      <password>${env.PASSWORD}</password>
     </server>
   </servers>
 
