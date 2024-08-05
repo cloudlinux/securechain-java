@@ -8,12 +8,12 @@ This guide outlines the steps needed to integrate the TuxCare ELS Spring reposit
 
 ### Step 1: Get user credntials
 You need username and password in order to use TuxCare ELS Spring repository. Anonymous access is disabled.
-
+<!--
 ### Step 2: Locate the Repository
 
-You can find the Trusted repository using the following link: [TuxCare ELS Spring repository](https://nexus-repo.corp.cloudlinux.com/#browse/browse:els_spring).
+You can find the Trusted repository using the following link: [TuxCare ELS Spring repository](https://nexus-repo.corp.cloudlinux.com/#browse/browse:els_spring).-->
 
-### Step 3: Create or Modify Your Build Tool Settings
+### Step 2: Create or Modify Your Build Tool Settings
 
 #### Maven
 
