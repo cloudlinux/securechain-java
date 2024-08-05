@@ -47,7 +47,7 @@ You may choose an arbitrary allowed value instead of ```repository-id``` and use
     </repository>
 </repositories>
 ```
-An example of maven project your can find 
+An example of maven project you can find 
 [here](../examples/maven). Do not forget to set the enviromnet variables.
 #### Gradle
 
@@ -71,7 +71,7 @@ export ORG_GRADLE_PROJECT_PASSWORD=your-password
 ```
 Here ```your-username``` and ```your-password``` are your credentials mentioned in the Step 1.
 
-An example of gradle project your can find 
+An example of gradle project you can find 
 [here](../examples/gradle). Do not forget to set the enviromnet variables.
 
 ## Verification
