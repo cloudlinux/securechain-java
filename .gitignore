@@ -1,0 +1,5 @@
+examples/gradle/.gradle/
+examples/gradle/.idea/
+examples/gradle/build/
+examples/maven/.idea/
+examples/maven/target/
