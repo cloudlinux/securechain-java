@@ -7,7 +7,7 @@ This guide outlines the steps needed to integrate the TuxCare ELS Spring reposit
 ## Steps
 
 ### Step 1: Get user credntials
-You need username and password in order to use TuxCare ELS Spring repository. Anonymous access is disabled.
+You need username and password in order to use TuxCare ELS Spring repository. Anonymous access is disabled. To receive username and password please contact sales@tuxcare.com
 <!--
 ### Step 2: Locate the Repository
 
