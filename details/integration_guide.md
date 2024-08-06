@@ -69,7 +69,7 @@ Set your credentials via the following enviromnent variables:
 export ORG_GRADLE_PROJECT_USERNAME=your-username
 export ORG_GRADLE_PROJECT_PASSWORD=your-password
 ```
-Here ```your-username``` and ```your-password``` are your credentials mentioned in the Step 1.
+Here ```your-username``` and ```your-password``` are your credentials mentioned in the [Step 1](#step-1-get-user-credntials).
 
 An example of gradle project you can find 
 [here](../examples/gradle). Do not forget to set the enviromnet variables.
