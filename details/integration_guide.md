@@ -36,7 +36,7 @@ Set your credentials via the following enviromnent variables:
 export USERNAME=your-username
 export PASSWORD=your-password
 ```
-Here ```your-username``` and ```your-password``` are your credentials mentioned in the [Step 1](#step-1:-get-user-credntials).
+Here ```your-username``` and ```your-password``` are your credentials mentioned in the [Step 1](#step-1-get-user-credntials).
 
 You may choose an arbitrary allowed value instead of ```repository-id``` and use the same value in the following snippet from your `pom.xml` file:
 ```xml
