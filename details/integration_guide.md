@@ -80,4 +80,4 @@ To confirm that the repository has been correctly established, include any libra
 
 ## Conclusion
 
-You've successfully integrated the TuxCare Vetted repository into your project. You can now benefit from the secure and vetted Java libraries it provides.
+You've successfully integrated the TuxCare ELS Spring repository into your project. You can now benefit from the secure and vetted Java libraries it provides.
