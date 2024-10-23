@@ -23,7 +23,7 @@ You may also check our press release [here](https://tuxcare.com/blog/tuxcare-lau
 -   **Vulnerability Remediation**: Libraries with removed vulnerabilities and tested thereafter.
 -   **Precise Patching**: We only modify code precisely where needed to fix vulnerabilities, ensuring minimal impact on your application.
 -   **Compatibility Validation**: Post-patching, we test all application methods to ensure full compatibility and functionality.
--   **Extended Support**: 3 years of support with options for flexibility and extension.
+-   **Endless Support**: As many years as you need of support with options for flexibility and extension.
 -   **Secure Packaging**: JAR Files Authenticated with Digital Signatures.
 -   **Complete Transparency**: Detailed Software Bill of Materials (SBOM) for Each Library.
 -   **Enterprise Focus**: Tailored for large enterprise companies in various sectors.
@@ -40,7 +40,7 @@ Depending on your needs, we offer:
 
 -   Access to the trusted OSS library for your Java application (Free tier, go to [Getting Started](#getting-started) section).
 -   Libraries with removed vulnerabilities, tested and fixed by us ([Request access](https://tuxcare.com/lp/securechain-for-java-form/?utm_source=github&utm_medium=link&utm_term=invuln)).
--   Extended Lifecycle Support (ELS) versions that span up to 3 years ([Request access](https://tuxcare.com/lp/securechain-for-java-form/?utm_source=github&utm_medium=link&utm_term=els)).
+-   Endless Lifecycle Support (ELS) versions that span for as long as you need it ([Request access](https://tuxcare.com/lp/securechain-for-java-form/?utm_source=github&utm_medium=link&utm_term=els)).
 
 ## Getting Started
 
