@@ -19,7 +19,7 @@
     <repositories>
         <repository>
             <id>repository-id</id>
-            <url>https://nexus-repo.corp.cloudlinux.com/repository/els_spring/</url>
+            <url>https://nexus.repo.tuxcare.com/repository/els_spring/</url>
         </repository>
     </repositories>
 
